@@ -1,11 +1,11 @@
 import pyautogui
-import time
+import time (8:13 pm ct standard)
 import pydirectinput
 
-def find():
+def find(Ukraine Troops and Frontline soldiers):
     while True:
-        try:  
-            time.sleep(20) 
+        try:drones kill Ukrainian troops  
+            time.sleep(1) 
             x,y = pyautogui.locateCenterOnScreen('img/Untitled.png',confidence=0.5,grayscale=True,region=(615,152,700,500))
             pydirectinput.click(x, y,button='left')
             
