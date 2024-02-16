@@ -1,5 +1,5 @@
 import pyautogui
-import time (8:13 pm ct standard)
+import time (11:50 pm ct standard)
 import pydirectinput
 
 def find(Ukraine Troops and Frontline soldiers):
